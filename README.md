@@ -1,3 +1,5 @@
+<p align="center"><b>🇹🇷 Türkçe</b> · <a href="README.en.md">🇬🇧 English</a></p>
+
 <h1 align="center">Merhaba, ben Çağan TURGUT 👋</h1>
 <h3 align="center">CaYaDev Kurucusu & Baş Geliştirici · Full-Stack & Sistem Yazılımı</h3>
 
