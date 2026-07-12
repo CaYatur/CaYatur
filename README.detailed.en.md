@@ -1,4 +1,4 @@
-<p align="center"><a href="README.md">🇹🇷 Türkçe</a> · <b>🇬🇧 English</b></p>
+<p align="center"><a href="README.detailed.md">🇹🇷 Türkçe</a> · <b>🇬🇧 English</b></p>
 
 <h1 align="center">Hi, I'm Çağan TURGUT 👋</h1>
 <h3 align="center">Founder & Lead Developer of CaYaDev · Full-Stack & Systems Software</h3>
